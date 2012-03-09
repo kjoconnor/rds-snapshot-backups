@@ -1,5 +1,7 @@
 <?php
 
+// 2012 Kevin O'Connor <kevino@arc90.com> @gooeyblob
+
 require_once('aws-sdk-for-php/sdk.class.php');
 date_default_timezone_set('UTC');
 
