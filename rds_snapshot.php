@@ -42,7 +42,7 @@ foreach($targets as $region => $instances) {
 
 	// For each target instance, do some stuff
 	foreach($instances as $instance) {
-		// Grab list of manual snapshots for this identifier (i.e., kindling-production-db)
+		// Grab list of manual snapshots for this identifier (i.e., my-production-db)
 		print date("[m-d-Y H:i:s] ") . "Describing snapshots for " . $instance . "\n";
 		$snapshots = $rds->describe_db_snapshots(array('DBInstanceIdentifier' => $instance));
 
