@@ -12,4 +12,4 @@ Two notes:
   backups from your own regular manual backups.  It's pretty easy to change,
   but please be aware so you don't step on each other's toes.
 
-Kevin O'Connor <kevino@arc90.com> @gooeyblob
+Kevin O'Connor <kjoconnor@gmail.com> @gooeyblob
